@@ -1,0 +1,33 @@
+{
+  "item": {
+    "id": "979860758582",
+    "restype": "watchface",
+    "name": "SU7 Ultra",
+    "description": "v20260704：适配小米手环10Pro\nv20250610：适配小米手环8Pro\nv1.3：加入多个壁纸并循环播放（表盘自定义工具 制作表盘里的动图），壁纸均来自“小米汽车“微信 公众号。约17秒换一张壁纸\nv1.2：在息屏中添加了小米汽车标识（目前仅小米 手环9版本支持，其他版本正在尽快适配)\nv1.1：稍微调整了一下星期的位置，使其看起来更 居中一点\nv1.0：在环9里发过",
+    "preview": [
+      "media/1000027333.jpg"
+    ],
+    "icon": "media/1000027337.jpg",
+    "cover": "media/1000027338.jpg",
+    "author": [
+      {
+        "name": "UnknownStation",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "0.0.0",
+      "file_name": "downloads/Xiaomi SU7 Ultra.bin",
+      "versionCode": 0
+    },
+    "xmb9p": {
+      "version": "0.0.0",
+      "file_name": "downloads/Xiaomi SU7 Ultra.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {}
+}
